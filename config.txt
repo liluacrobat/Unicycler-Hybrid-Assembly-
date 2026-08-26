@@ -1,0 +1,3 @@
+##### Slurm option #####
+WDSHORT = /projects/academic/pidiazmo/Sequence_storage/MOCK_community_study/Culturomics/Short_read_fastq
+WDLONG = /projects/academic/pidiazmo/Sequence_storage/MOCK_community_study/Culturomics/Long_read_fastq
